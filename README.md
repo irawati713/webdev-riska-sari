@@ -1,4 +1,4 @@
-# Portofolio Digital - Qahar Qadrian
+# Portofolio Digital - riska sari
 
 Selamat datang di repositori portofolio digital saya! Proyek ini merupakan hasil tugas mata kuliah **Pembelajaran Web** yang berfungsi sebagai media perkenalan diri dan menunjukkan keahlian dasar saya.
 
